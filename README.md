@@ -1,6 +1,7 @@
 # ST-GCP
 A Graph Convolutional Network Model with Contrastive Learning and permutation for Spatial Transcriptomics
-![Figure 1](https://github.com/user-attachments/assets/40ceb6d3-5813-4cdd-9efb-901f36b67c82)
+![Figure 1](https://github.com/user-attachments/assets/9a77abec-853c-4bbb-a99a-1db9138b9cf7)
+
 
 
 
